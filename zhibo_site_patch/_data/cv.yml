@@ -1,0 +1,49 @@
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Astronomy & Astrophysics
+      institution: The Pennsylvania State University, University Park, PA, USA
+      year: 2022 - present
+      description:
+        - Advisor: Prof. W. Niel Brandt
+        - Research on active galactic nuclei, supermassive black-hole growth, and galaxy evolution.
+    - title: B.S. in Physics
+      institution: Fudan University, Shanghai, China
+      year: 2018 - 2022
+
+- title: Research Interests
+  type: list
+  contents:
+    - Supermassive black-hole growth and active galactic nuclei
+    - Black-hole–galaxy coevolution
+    - Galaxy mergers and AGN triggering
+    - Deep and wide multiwavelength surveys
+    - X-ray astronomy
+    - Machine learning and statistical inference in astronomy
+
+- title: Selected Publications
+  type: time_table
+  contents:
+    - title: The Drivers of the Decline in Supermassive Black Hole Growth at z < 2
+      institution: The Astrophysical Journal, 995, 205
+      year: 2025
+      description:
+        - First author
+    - title: Dust-obscured Galaxies in the XMM-SERVS Fields
+      institution: The Astrophysical Journal, 977, 210
+      year: 2024
+      description:
+        - First author
+    - title: Mapping the Growth of Supermassive Black Holes as a Function of Galaxy Stellar Mass and Redshift
+      institution: The Astrophysical Journal, 964, 183
+      year: 2024
+      description:
+        - Co-author
+
+- title: Methods and Data
+  type: list
+  contents:
+    - Python, Julia, PyTorch, Astropy
+    - X-ray and multiwavelength survey analysis
+    - Statistical modeling and Bayesian inference
+    - Convolutional neural networks and astronomical image simulations

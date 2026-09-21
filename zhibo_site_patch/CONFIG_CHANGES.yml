@@ -1,0 +1,30 @@
+# Replace the corresponding values near the top of _config.yml with:
+
+title:
+first_name: Zhibo
+middle_name:
+last_name: Yu
+
+contact_note: >
+  The best way to reach me is by email.
+
+description: >
+  Zhibo Yu is an astronomy PhD candidate at Penn State studying active galactic nuclei,
+  supermassive black-hole growth, galaxy evolution, and multiwavelength surveys.
+
+keywords: astronomy, astrophysics, AGN, supermassive black holes, galaxy evolution, X-ray astronomy, Penn State
+
+icon: 🔭
+
+blog_name: Zhibo Yu
+blog_description: Notes on astronomy and research.
+
+# In the scholar section replace:
+scholar:
+  last_name: [Yu]
+  first_name: [Zhibo, Z.]
+
+# Recommended optional switches:
+serve_og_meta: true
+serve_schema_org: true
+enable_navbar_social: true
