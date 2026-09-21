@@ -34,6 +34,7 @@ Dust-obscured galaxies (DOGs) are massive, dusty systems commonly found near cos
 My work makes use of wide and deep extragalactic surveys, including data from **Chandra, XMM-Newton, JWST, Euclid, Spitzer, Herschel, VLA**, and major optical/near-infrared surveys.
 
 Methodologically, I work with:
+
 - multiwavelength catalog construction and cross-matching;
 - X-ray source populations and stacking;
 - spectral-energy-distribution modeling;
