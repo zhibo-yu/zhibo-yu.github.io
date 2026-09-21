@@ -1,9 +1,9 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 description: Research on supermassive black holes, AGNs, galaxy evolution, and multiwavelength surveys.
-nav: true
+nav: false
 nav_order: 2
 ---
 

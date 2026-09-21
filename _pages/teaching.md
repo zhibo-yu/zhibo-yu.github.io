@@ -1,12 +1,10 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
-nav_order: 6
+permalink: /photo/
+title: My Photography
+description: During my spare time, I like travel and taking photos along the way. I also claim myself as an amateur astrophotographer, and a dedicated eclipse chaser!
+nav: true
+nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+Page is under construction
