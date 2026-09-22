@@ -27,7 +27,7 @@ I am a PhD candidate in the [Department of Astronomy & Astrophysics](https://sci
 
 My research focuses on **supermassive black holes (SMBHs)** and their connection to galaxy evolution. I use large multiwavelength surveys—from X-rays to the radio—to study **active galactic nuclei (AGNs)**, black-hole accretion, galaxy properties, and the physical processes that regulate SMBH growth across cosmic time. I am particularly interested in combining deep and wide surveys with modern statistical and machine-learning methods.
 
-A major theme of my current work is understanding **SMBH growth**, and whether processes such as **galaxy mergers** play a major role in triggering black-hole accretion. 
+A major theme of my current work is understanding **SMBH growth**, and whether processes such as **galaxy mergers** play a major role in triggering black-hole accretion.
 
 My recent work includes studies of the decline of cosmic SMBH growth since cosmic noon (see a [CXC press release](https://chandra.harvard.edu/press/26_releases/press_032426.html) and a [blog](https://chandra.harvard.edu/blog/node/954)), dust-obscured galaxies in XMM-SERVS, and the dependence of black-hole growth on galaxy stellar mass and redshift.
 
@@ -40,4 +40,3 @@ My recent work includes studies of the decline of cosmic SMBH growth since cosmi
 - Black-hole vs. galaxy connections
 - Statistical methods and machine-learning
 - High-energy astrophysics and X-ray astronomy
-
