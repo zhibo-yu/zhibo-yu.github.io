@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "Here is my CV (last updated in September 2026).",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "nav-my-photography",
           title: "My Photography",
           description: "During my spare time, I like travel and taking photos along the way. I also claim myself as an amateur astrophotographer, and a dedicated eclipse chaser!",
