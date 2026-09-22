@@ -1,12 +1,13 @@
 ---
 layout: page
-permalink:/cv/
+permalink: /cv/
+description: Here is my CV (last updated in September 2026).
 title: CV
 nav: true
 nav_order: 4
 ---
 
-Here is my CV (last updated in September 2026).
+
 
 <iframe
   src="{{ '/assets/pdf/Zhibo_CV_2609.pdf' | relative_url }}"
