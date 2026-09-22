@@ -6,7 +6,7 @@ subtitle: PhD Candidate in Astronomy & Astrophysics at Penn State
 
 profile:
   align: right
-  image: my_pic.jpg
+  image: my_pic_fixed.jpg
   image_circular: false
   more_info: >
     <p>Me just finishing observing the total solar eclipse at La Muela, Spain on Aug 12, 2026</p>
